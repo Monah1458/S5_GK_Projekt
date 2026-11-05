@@ -18,15 +18,15 @@ Główny cykl rozgrywki
 
 Kluczowe mechaniki i systemy
 
-System budowania i siatka terenu
-Rozmieszczanie obiektów: Elastyczny system siatki, który dopasowuje się do wysokości terenu. Budynki wymagają stabilnego podłoża; mury można stawiać również na zboczach.
+-System budowania i siatka terenu
+  Rozmieszczanie obiektów: Elastyczny system siatki, który dopasowuje się do wysokości terenu. Budynki wymagają stabilnego podłoża; mury można stawiać również na zboczach.
 
-Gospodarka oparta na bliskości: To najważniejszy wyróżnik gry. Obóz drwali umieszczony w sąsiedztwie lasu pozyskuje drewno szybciej niż ten położony dalej. Kamieniołom musi zostać zbudowany na złożu kamienia. Wymusza to tworzenie naturalnych układów bazy, ściśle powiązanych z ukształtowaniem terenu, zamiast sztywnych, optymalnych schematów „blokowych”.
+-Gospodarka oparta na bliskości: To najważniejszy wyróżnik gry. Obóz drwali umieszczony w sąsiedztwie lasu pozyskuje drewno szybciej niż ten położony dalej. Kamieniołom musi zostać zbudowany na złożu kamienia. Wymusza to tworzenie naturalnych układów bazy, ściśle powiązanych z ukształtowaniem terenu, zamiast sztywnych, optymalnych schematów „blokowych”.
 
-Gospodarka surowcowa
+-Gospodarka surowcowa
 Surowce: Drewno, kamień, żywność, złoto.
 
-Magazynowanie i efektywność: Surowce są gromadzone w magazynach. Kluczowym elementem strategicznym jest umieszczanie magazynów w pobliżu stref produkcyjnych, aby zminimalizować „czas podróży” w celu dostarczenia zasobów, który jest symulowany przez jednostki robotnicze przemieszczające się tam i z powrotem.
+-Magazynowanie i efektywność: Surowce są gromadzone w magazynach. Kluczowym elementem strategicznym jest umieszczanie magazynów w pobliżu stref produkcyjnych, aby zminimalizować „czas podróży” w celu dostarczenia zasobów, który jest symulowany przez jednostki robotnicze przemieszczające się tam i z powrotem.
 
 -Fale wroga
 
