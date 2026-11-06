@@ -1,8 +1,6 @@
 GDD – 
-1.Pomysł na projekt
-Buduj osadę, zarządzaj gospodarką i broń się przed wrogami.
-
-Gra opiera się stworzenie i obronie osady. Zwycięstwo polega na na przetrwaniu kolejnych, coraz silniejszych fal przeciwników przez określony czas
+CZĘŚĆ I: KONCEPT GRY
+Tower defense i city builder, w którym gracz wciela się w rolę architekta i dowódcy oblężonej osady. Celem jest przetrwanie kolejnych, coraz potężniejszych fal wrogów. Gra łączy budowę bazy, zarządzanie ekonomią oraz obronę.
 
 Główny cykl rozgrywki
 
