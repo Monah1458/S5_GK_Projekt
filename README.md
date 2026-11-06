@@ -31,3 +31,6 @@ Surowce: Drewno, kamień, żywność, złoto.
 Rodzaje wrogów:
 
 Wyznaczanie ścieżki: Wrogowie wykorzystują wyznaczanie ścieżki za pomocą pola przepływu, aby poruszać się wokół murów, ale zaatakują mury, jeśli nie ma na nie ścieżki. Priorytetem jest dla nich najkrótsza droga do centrum miasta.
+
+Technologia 
+Unity 6 
